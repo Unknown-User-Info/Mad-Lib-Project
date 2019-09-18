@@ -1,0 +1,49 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color: grey;
+    width: 600px;
+    padding: 50px;
+
+}
+
+div.main_info {
+    width: 1000px;
+    margin: auto;
+    padding: 10px 100px;
+    background-color: aliceblue;
+    text-align: left;
+}
+
+h1 {
+    font-variant: small-caps;
+    background-color: grey;
+    width: 25%;
+}
+
+hr {
+    height: 3px;
+    background-color: white;
+    border: 2px solid white;
+}
+
+button {
+    font-size: 20px;
+    border: 2px solid lightgrey;
+    background-color: darkgrey;
+    border-radius: 5px;
+}
+
+ul {
+    padding: 20px 30px;
+    background-color: lightyellow;
+    border-radius: 20px;
+    border: 2px solid lightgrey;
+}
+
+p#madlib_result {
+    background-color: lightsteelblue;
+    border: 2px solid lightgrey;
+    border-radius: 5px;
+    padding: 20px 30px;
+    font-size: 30px;
+}
